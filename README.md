@@ -7,5 +7,4 @@ No problem.This program is designed to detect new files added to your Downloads 
 
 
 NOTE ** 
-     # Paths must be changed. 
-     # Install watchdog library
+     # Paths must be changed.
